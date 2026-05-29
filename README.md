@@ -19,9 +19,9 @@ Desenvolvedor Full Stack focado em sistemas web para operação real, com ênfas
 
 ## Cases em destaque
 
-- [Portfolio profissional](https://github.com/LeonardoFelps/portfolio-leonardo)
-- [Agenda Ideal Landing](https://github.com/LeonardoFelps/agenda-ideal-landing)
 - [Web demos](https://github.com/LeonardoFelps/web)
+- SaaS de operação comercial com fluxo ponta a ponta (case público em construção)
+- IA aplicada para classificação e previsão com métricas comparativas (case público em construção)
 
 ## Presença profissional
 
