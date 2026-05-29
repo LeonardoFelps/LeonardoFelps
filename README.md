@@ -19,7 +19,7 @@ Desenvolvedor Full Stack focado em sistemas web para operação real, com ênfas
 
 ## Cases em destaque
 
-- [Web demos](https://github.com/LeonardoFelps/web)
+- [Web demos (GitHub Pages)](https://leonardofelps.github.io/web/dashboard/)
 - SaaS de operação comercial com fluxo ponta a ponta (case público em construção)
 - IA aplicada para classificação e previsão com métricas comparativas (case público em construção)
 
