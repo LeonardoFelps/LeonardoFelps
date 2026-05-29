@@ -1,13 +1,13 @@
 # Leonardo Felipe Justino
 
-Desenvolvedor Full Stack focado em sistemas web para operacao real, com enfase em PHP, Laravel, APIs, SaaS e automacoes.
+Desenvolvedor Full Stack focado em sistemas web para operação real, com ênfase em PHP, Laravel, APIs, SaaS e automações.
 
 ## O que eu construo
 
-- Sistemas de gestao e paines administrativos
-- Integracoes entre plataformas via API e webhooks
+- Sistemas de gestão e painéis administrativos
+- Integrações entre plataformas via API e webhooks
 - Produtos SaaS com foco em fluxo operacional
-- Automacoes para reduzir retrabalho e aumentar previsibilidade
+- Automações para reduzir retrabalho e aumentar previsibilidade
 
 ## Stack principal
 
@@ -15,7 +15,7 @@ Desenvolvedor Full Stack focado em sistemas web para operacao real, com enfase e
 - JavaScript, TypeScript, React
 - MySQL, PostgreSQL
 - APIs REST, Webhooks
-- n8n, automacoes e integracoes
+- n8n, automações e integrações
 
 ## Cases em destaque
 
@@ -23,8 +23,8 @@ Desenvolvedor Full Stack focado em sistemas web para operacao real, com enfase e
 - [Agenda Ideal Landing](https://github.com/LeonardoFelps/agenda-ideal-landing)
 - [Web demos](https://github.com/LeonardoFelps/web)
 
-## Presenca profissional
+## Presença profissional
 
 - Workana: https://www.workana.com/freelancer/46321a66b0c4beeb9580aecaa3323ba8
 - LinkedIn: https://www.linkedin.com/in/leonardojustino
-- Portfolio online: https://leonardofelps.github.io/portfolio-leonardo/
+- Portfólio online: https://leonardofelps.github.io/portfolio-leonardo/
